@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #2a2a2a;
+   height: 100vh;
+}
+.nav{
+    border-right:1px solid #3f3f3f;
+}
+
+.list{
+    width: 100%;
+}
+.list1{
+    width: 100%;
+}
+.logo a img{
+    background-color: #2a2a2a;
+    width: 30px;
+    height: 30px;
+}
+.logo h1{
+    color: #fff;
+    font-size: 10px;
+    font-weight: 500;
+    text-align: center;
+    margin: 1px;
+}
+
+.icons{
+    font-size: 10px;
+    color: #fff;
+}
+.icons:hover{
+    color: #3f3f3f;
+    transform: 1s;
+    transition: calc(2,22);
+}
+.text{
+    text-decoration: none;
+}
+.text h2{
+    font-size: 10px;
+    font-weight: 500;
+    color: #fff;
+}
+.text h2:hover{
+    color: #3f3f3f;
+    transform: 1s;
+}
+
+.nav1 ul li i{
+    color: #fff;
+}
+.nav2 ul li i{
+    color: #fff;
+}
+li{
+    list-style: none;
+}
+.body{
+    align-items: center;
+}
+.head{
+    width: 100%;
+}
+.nav1 h3{
+    font-size: 10px;
+    color: #0f0f0f;
+}
+.nav2 h3{
+    font-size: 10px;
+    color: #0c0b0b;
+}
+.text-white{
+    color:#fff
+}
+.icon1 a{
+    align-items: center;
+    color: #fff;
+    align-items: center;
+}
+.icon1 a:hover{
+    color: #3f3f3f;
+    transform: 1s;
+}
+.icon2 a{
+    align-items: center;
+    color: #fff;
+    align-items: center;
+}
+.icon2 a:hover{
+    color: #3f3f3f;
+    transform: 1s;
+}
+.inp a i{
+    color: #b4aeae;
+    position:absolute;
+    font-size: 15px;
+    align-items: center;
+    padding:  10px 5px;
+    margin-bottom: 20px;
+    z-index: 1;
+}
+.inp a i:hover{
+    color: #3f3f3f;
+    transform: 1s;
+}
+.inp input{
+    background: #2a2a2a;
+    position: relative;
+    align-items: center;
+    width: 100%;
+    padding:15px 30px;
+    height: 30px;
+    border-radius: 5px;
+}
+.card-body a .fa-solid:hover{
+    color: #2a2a2a;
+    z-index: 2;
+    cursor: pointer;
+}
+.card{
+    background: #2a2a2a;
+    color: #fff;
+    border-radius: 5px;
+    width: 15%;
+    margin: 0 3px;
+    height: 200px;
+}
+#area{
+    flex-wrap: wrap;
+}
+.card img{
+    width: 100%;
+    height:200px;
+    color:#3f3f3f linear-gradient(rgba(253, 247, 247, 0.979),rgba(255, 252, 252, 0.966));
+}
+.card-body h5{
+    color: #fff;
+    font-size: 10px;
+    text-align: center;
+}
+.card-body a{
+    
+    font-size: 8px;
+}
+.item1{
+    align-items: center;
+}
